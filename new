@@ -3,6 +3,4 @@ file
 
 11 more
 
-<script type="text/javascript">
-  alert("test");
-</script>
+<script type="text/javascript">alert("test");</script>
